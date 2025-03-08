@@ -2,6 +2,7 @@
   "lockfileVersion": 1,
   "workspaces": {
     "": {
+      "name": "app",
       "dependencies": {
         "@remotion/cli": "^4.0.273",
         "react": "^19.0.0",
